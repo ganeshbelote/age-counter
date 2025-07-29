@@ -63,7 +63,6 @@ age-counter/
 
    ```
    http://localhost:3000
-   ```
 
 ✅ Your age counter should now be live!
 
