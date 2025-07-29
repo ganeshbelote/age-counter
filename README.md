@@ -71,4 +71,3 @@ age-counter/
 
 Made with ❤️ by [Ganesh Belote](https://github.com/ganeshbelote)
 
-```
