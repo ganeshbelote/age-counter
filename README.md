@@ -51,7 +51,6 @@ age-counter/
    ```bash
    git clone https://github.com/your-username/age-counter.git
    cd age-counter
-````
 
 2. **Run the Node.js server**
 
