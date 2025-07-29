@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Age Counter</title>
+    <link rel="stylesheet" href="./utils/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="wrapper">
+        <h1>Age Counter</h1>
+        <p>Fill Birth date as dd-mm-yyyy formate !</p>
+        <form>
+          <label for="date">Birth Date</label>
+          <input name="date" type="date" />
+          <button type="submit">Calculate</button>
+        </form>
+        <p id="output" class="output hide">
+            Your Age is <span class="age">dd-mm-yyyy</span> 😊
+        </p>
+      </div>
+    </div> 
+  </body>
+  <script src="./utils/script.js" defer></script>
+</html>
